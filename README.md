@@ -1,4 +1,6 @@
-## 工具箱安装教程
+# 欧思工具网
+  预览地址：https://tools.ousi.cc
+## 安装教程
     Nginx+php必须7.4   无需数据库
 
     运行目录设置 /public
